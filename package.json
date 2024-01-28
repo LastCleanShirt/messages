@@ -1,7 +1,7 @@
 {
   "name": "messages",
   "version": "0.0.1",
-  "description": "Message prototype",
+  "description": "Messages",
   "main": "index.js",
   "scripts": {
     "test": "",
